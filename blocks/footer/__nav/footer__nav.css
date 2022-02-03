@@ -11,5 +11,12 @@
     flex-direction: column;
     gap: 32px;
     margin-bottom: 47px;
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .footer__nav {
+    text-align: start;
   }
 }
