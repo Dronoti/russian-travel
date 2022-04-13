@@ -1,4 +1,4 @@
-# Проект "Путешествия по России" от Яндекс.Практикума
+# Проект "Путешествия по России"
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
@@ -6,8 +6,8 @@
 ### Описание проекта
 Всем привет :wave:
 
-В данном проекте необходимо создать отзывчивый одностраничный сайт о путешествиях по России.
-Был предоставлен [макет в Фигме](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0),
+В данном проекте я сверстал отзывчивый одностраничный сайт о путешествиях по России.
+За основу был взят [макет в Фигме](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0),
 в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
 
 **Изображения**
@@ -16,7 +16,7 @@
 Помимо этого, [изображения были оптимизированы](https://tinypng.com/), чтобы сайт загружался быстрее.
 
 ### Технологии
-В рамках проектной работы "Путешествия по России" были использованы следующие технологии:
+В рамках проекта "Путешествия по России" были использованы следующие технологии:
 * HTML5
 * CSS3
 * Flexbox
